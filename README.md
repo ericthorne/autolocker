@@ -20,9 +20,9 @@ The crontab listing to start things up correctly and run toggle_4_5.sh at 11PM e
 to be run as root, so use `sudo crontab -e`.
 
 # BOM:
-1 Raspberry Pi Zero W kit: https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J
-3 wires from: https://www.amazon.com/gp/product/B01MU0IMFF/
+* 1 Raspberry Pi Zero W kit: https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J
+* 3 wires from: https://www.amazon.com/gp/product/B01MU0IMFF/
 (cut in half)
-1 key fob for a 2000 Toyota:https://www.amazon.com/gp/product/B06XRGQ3LJ/
-1 key for a 2009 Toyota: https://www.amazon.com/gp/product/B06Y2F1HS4/
+* 1 key fob for a 2000 Toyota:https://www.amazon.com/gp/product/B06XRGQ3LJ/
+* 1 key for a 2009 Toyota: https://www.amazon.com/gp/product/B06Y2F1HS4/
 (I was paranoid I'd destroy a remote so I ordered 2 packs)
